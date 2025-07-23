@@ -31,3 +31,14 @@ To collaborate and work as a positive team member within a software development 
 Bachelor of Arts – Computer Information Systems
 
 ---
+
+### 📦 My Open Source Projects
+
+Here are some of the libraries and tools I've created or contributed to:
+
+- [**PropertyGridHelpers**](https://github.com/dparvin/PropertyGridHelpers) – Utilities and editors for enhancing WinForms property grid functionality.
+- [**EventLogHelper**](https://github.com/dparvin/EventLogHelper) – A simple, testable, and customizable event logging utility for .NET.
+- [**Versioning.Common**](https://github.com/dparvin/Versioning.Common) – MSBuild targets for generating consistent assembly version information across projects.
+
+---
+
