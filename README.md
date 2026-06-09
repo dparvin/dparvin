@@ -12,16 +12,20 @@ I'm **David Parvin**, a Senior Programmer/Analyst at Cougar Mountain Software si
 
 ### 🧠 Skills & Technologies
 
-Languages
-- C#, VB.NET, C++, T-SQL 
-Frameworks & Technologies
-- .NET Framework, .NET (Core/5+), WinForms, MFC, XML, JSON 
-Databases
+**Languages**
+- C#, VB.NET, C++, T-SQL
+
+**Frameworks & Technologies**
+- .NET Framework, .NET (Core/5+), WinForms, MFC, XML, JSON
+
+**Databases**
 - Microsoft SQL Server, MySql
-Development Practices
-- Agile/Scrum, Unit Testing, Test Automation, Continuous Integration 
-DevOps & Tools
-- Azure DevOps, Git, TFVC, NuGet, MSBuild
+
+**Development Practices**
+- Agile/Scrum, Unit Testing, Test Automation, Continuous Integration
+
+**DevOps & Tools**
+ - Azure DevOps, Git, TFVC, NuGet, MSBuild
 
 ### 🛠️ What I Do
 
