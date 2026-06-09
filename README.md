@@ -1,16 +1,27 @@
 ## 👋 About Me
 
-I'm **David Parvin**, a Senior Programmer/Analyst at Cougar Mountain Software, where I've been developing robust accounting and payroll systems since 1996. I have a deep passion for writing clean, maintainable code and collaborating within cross-functional teams using Agile methodologies.
+I'm **David Parvin**, a Senior Programmer/Analyst at Cougar Mountain Software since 1996.  During that time I have gained experience designing, developing, testing, and maintaining enterprise accounting and payroll software. Extensive experience in C#, VB.NET, C++, SQL Server, automated testing, DevOps, and Agile development practices. Proven track record of delivering business-critical software used by thousands of organizations.
 
-### 🎯 Objective
-
-To collaborate and work as a positive team member within a software development team, while continually learning and adopting new technologies and practices.
+- Design, develop, and maintain enterprise accounting, payroll, and business management applications. 
+- Develop software using C#, VB.NET, C++, SQL Server, XML, and JSON technologies. 
+- Participate in architecture, code reviews, defect analysis, and feature planning.
+- Contribute to Agile development processes and cross-functional teams. 
+- Create and maintain automated unit tests to improve software quality and reliability. 
+- Mentor developers and assist with technical problem solving.
+- Collaborate with product management, QA, and support teams to deliver customer-focused solutions.
 
 ### 🧠 Skills & Technologies
 
-- **Languages:** C#, Visual Basic .NET, C++, T-SQL
-- **Markup & Data Formats:** XML, JSON, HTML
-- **Tools & Practices:** DevOps, Unit Testing, Test Automation
+Languages
+- C#, VB.NET, C++, T-SQL 
+Frameworks & Technologies
+- .NET Framework, .NET (Core/5+), WinForms, MFC, XML, JSON 
+Databases
+- Microsoft SQL Server, MySql
+Development Practices
+- Agile/Scrum, Unit Testing, Test Automation, Continuous Integration 
+DevOps & Tools
+- Azure DevOps, Git, TFVC, NuGet, MSBuild
 
 ### 🛠️ What I Do
 
