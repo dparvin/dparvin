@@ -21,12 +21,13 @@ I'm **David Parvin**, a Senior Programmer/Analyst at Cougar Mountain Software si
 | DevOps | Azure DevOps, Git, TFVC, NuGet, MSBuild |
 | Methodologies | Agile/Scrum, CI/CD |
 
-### 🛠️ What I Do
+### 🛠️ Highlights
 
-- Engineer full-featured accounting solutions for retail, manufacturing, construction, and non-profit sectors.
-- Build efficient payroll systems and support business-critical operations.
-- Work with Microsoft SQL Server backends to ensure reliable and performant data storage.
-- Collaborate with product owners and engineers to design and deliver high-quality features.
+- Over 30 years developing commercial accounting and payroll software.
+- Experience maintaining and enhancing large enterprise codebases.
+- Extensive work with automated testing and software quality initiatives.
+- Contributor to build automation, package creation, and CI/CD processes.
+- Active maintainer of open-source .NET libraries.
 
 ### 🤝 Soft Skills
 
